@@ -1,0 +1,53 @@
+   <!DOCTYPE HTML>
+    <html lang="en">
+    <head>
+<meta charset ="utf-8">
+
+<title>KING CJ ACC</title>
+    <style type="text/css">
+marquee {
+background-color:yellow;
+color:cornflowerblue;
+}
+span {
+color:cornflowerblue;
+}
+legend{
+color:green;
+text-size-adjust:20px;
+}
+
+</style>
+</head>
+<body>
+<h4><span><strong>please kindiy fill up these:</span>
+<h2><em><span>Bank inforation form</span></em>
+<legend>Bank Name</legend>
+<input placeholder="Bank Name"><br>
+<legend>Bank Branch </legend>
+<input placeholder="Bank Branch"><br>
+<p></p>
+<legend>Branch Number</legend>
+<input placeholder="Branch Number">
+<p>
+<legend>Branch Address</legend>
+<input placeholder="Street Address"><br>
+<input placeholder="Street Address line 2"><br>
+ <input placeholder="City"><input placeholder= "Region"<br>
+<input placeholder="Zip Code"><input type placeholder="BVN"
+<p></p>
+<legend>Bank Account</legend>
+ <input placeholder="">
+<p></p>
+<legend> SWIFT/BIC</legend>
+<input placeholder="">
+<legend> IBAN NO </legend>
+<input placeholder="">
+<legend>BANK ACCOUNT NUMBER</legend>
+<input placeholder="">
+<legend>ACCOUNT TYPE</legend>
+<label> checking</label>
+<input type="checkbox"><br>
+<label> savings</label>
+<input type="checkbox"><br>
+<label> other</label><br>
